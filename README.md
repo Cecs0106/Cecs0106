@@ -37,7 +37,7 @@ Desarrollador Web especializado en el área de **Frontend** y cofundador de solu
 ---
 
 ### :zap: Actividad reciente
-<!--RECENT\_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT\_ACTIVITY:last\_update-->
 
 ### 🌐 Conecta Conmigo
