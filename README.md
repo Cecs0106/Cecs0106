@@ -36,6 +36,10 @@ Desarrollador Web especializado en el área de **Frontend** y cofundador de solu
 
 ---
 
+### :zap: Actividad reciente
+<!--RECENT\_ACTIVITY:start-->
+<!--RECENT\_ACTIVITY:last\_update-->
+
 ### 🌐 Conecta Conmigo
 
 * 🌍 **Sitio Web Personal:** [cleibert.pro](http://www.cleibert.pro)
